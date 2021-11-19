@@ -1,0 +1,17 @@
+{
+  "background_color": "#8c9b9d",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#8c9b9d",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Becky Bakes Cakes",
+  "short_name": "Becky Bakes Cakes",
+  "description": "Becky Bakes Cakes",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://beckybakescakes.com/manifest.json"
+    }
+  ]
+}
