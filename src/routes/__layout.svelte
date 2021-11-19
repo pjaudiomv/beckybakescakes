@@ -29,7 +29,7 @@
     <link rel="manifest" href="manifest.json" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <title>Amalgameet</title>
+    <title>BEcky Bakes Cakes</title>
 </svelte:head>
 <svelte:window on:click={documentClick} on:touchend={documentClick} />
 
