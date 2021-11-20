@@ -10,5 +10,4 @@
     <title>Becky Bakes Cakes</title>
     <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-a11y="true"></script>
 </svelte:head>
-
 <BeckyBakesCakes />
