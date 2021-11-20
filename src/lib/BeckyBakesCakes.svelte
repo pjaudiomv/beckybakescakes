@@ -1,7 +1,7 @@
 <script lang="ts">
 </script>
 
-<section class="hero is-fullheight is-default is-bold blah">
+<section class="hero is-fullheight is-default is-bold secbgcolor">
     <div class="hero-body">
         <div class="container has-text-centered">
             <div class="columns is-vcentered">
@@ -30,9 +30,9 @@
 
     <div class="hero-foot is-bold">
         <div class="container">
-            <div class="tabs is-centered">
+            <div class="tabs is-centered p-2">
                 <ul>
-                    <li><a href="mailto:becky@beckybakescakes.com?subject=Inquiry Becky Bakes Cake">becky@beckybakescakes.com</a></li>
+                    <li><a href="mailto:becky@beckybakescakes.com?subject=Inquiry Becky Bakes Cakes">becky@beckybakescakes.com</a></li>
                 </ul>
             </div>
         </div>
@@ -40,7 +40,7 @@
 </section>
 
 <style>
-    .blah {
+    .secbgcolor {
         background: #9aa8bf;
     }
 </style>
