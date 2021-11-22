@@ -41,6 +41,15 @@
 
 <style>
     .secbgcolor {
-        background: #9aa8bf;
+        background: #2b3b54;
+    }
+    .title {
+        color: #9aa8bf;
+    }
+    .tabs a {
+        color: #9aa8bf;
+    }
+    .tabs a:hover {
+        color: #717b8b;
     }
 </style>
